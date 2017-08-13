@@ -1,0 +1,7 @@
+[package]
+name = "tarfs"
+version = "0.1.0"
+authors = ["atti1a <ngonella@calpoly.edu>"]
+
+[dependencies]
+byteorder = "*"
